@@ -2,17 +2,12 @@
 
 # Project Overview
 
-The Student Vehicle Registration and Campus Parking Management System is a proposed web-based system designed to improve vehicle registration and parking management within Universiti Malaysia Terengganu (UMT).
+The Student Vehicle Registration and Campus Parking Management System is a web based system designed to improve vehicle registration and parking management within the university campus.
 
-The system aims to provide a more organised and convenient way for students to register their vehicles and access campus parking information. It also allows administrators to manage student vehicle records, review registration applications and monitor parking-related activities.
+The system provides a convenient platform for students to register their vehicles, manage vehicle information, and view campus parking information. It also allows administrators to manage vehicle registrations, monitor parking areas, and record parking violations.
 
 # Problem Statement
 
-Vehicle registration and parking management are important aspects of campus operations. However, difficulties in managing vehicle records, checking registration status and accessing parking information may affect both students and university administrators.
-
-Therefore, this proposed system aims to provide a centralised platform to simplify vehicle registration and improve campus parking management.
-
-The actual problems will be further investigated through stakeholder interviews and questionnaires.
 
 # Project Objectives
 
@@ -28,33 +23,45 @@ The objectives of this project are:
 
 -To improve the efficiency of campus vehicle and parking management.
 
-# Proposed System Features
+# Proposed System Modules
 
--Student Module
+The system consists of four main modules:
 
--Student account registration and login.
+Module 1: Student Account Management
 
--Manage student profile.
+-Student registration and login.
 
--Register vehicle details.
+-Manage personal information.
 
--Update vehicle information.
+-View account details.
 
--View vehicle registration status.
+Module 2: Vehicle Registration Management
 
--View campus parking information.
+Register student vehicles.
 
--Administrator Module
+Submit vehicle information.
 
--Manage student records.
+Upload required documents, such as driving licences and vehicle insurance documents.
 
--View and manage vehicle registrations.
+View vehicle registration status.
 
--Approve or reject vehicle registration applications.
+Module 3: Parking Information Management
 
--Manage campus parking information.
+View available campus parking areas.
 
--Record and manage parking violations.
+Check parking information.
+
+View parking area status.
+
+Module 4: Admin and Violation Management
+
+Manage student accounts and vehicle records.
+
+Approve or reject vehicle registrations.
+
+Record parking violations.
+
+Issue digital parking violation notifications.
 
 # Target Users
 
@@ -66,11 +73,15 @@ The objectives of this project are:
 
 # Project Scope
 
-This project focuses on student vehicle registration and campus parking management within Universiti Malaysia Terengganu (UMT).
+-Web-based application.
 
-The proposed system will focus on vehicle information management, registration applications, parking information and administrative functions.
+-Designed for university campus use.
 
-Online payment facilities are not included in the proposed system scope.
+-Focuses on vehicle registration and parking management.
+
+-Does not include online payment functionality.
+
+-Provides separate access for students and administrators.
 
 # Group Members
 
@@ -123,7 +134,7 @@ Programming Language: Java
 
 IDE: NetBeans
 
-Database: 
+Database: MySQL
 
 UI Design: Figma / Draw.io
 
