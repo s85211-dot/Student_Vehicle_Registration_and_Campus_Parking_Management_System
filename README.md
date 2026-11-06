@@ -117,15 +117,15 @@ Responsibility
 
 # Technologies and Tools
 
-The proposed technologies and tools include:
+The technologies and tools used for this project include:
 
-Frontend: 
+Programming Language: Java
 
-Backend: 
+IDE: NetBeans
 
 Database: 
 
-UI Design: 
+UI Design: Figma / Draw.io
 
 Project Collaboration: GitHub
 
