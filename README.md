@@ -63,3 +63,91 @@ The objectives of this project are:
 -Administrators: Manage student vehicle registrations and campus parking information.
 
 -Parking / Security Staff: Assist with monitoring registered vehicles and parking-related activities, subject to confirmed requirements.
+
+# Project Scope
+
+This project focuses on student vehicle registration and campus parking management within Universiti Malaysia Terengganu (UMT).
+
+The proposed system will focus on vehicle information management, registration applications, parking information and administrative functions.
+
+Online payment facilities are not included in the proposed system scope.
+
+# Group Members
+
+
+
+[Member 1]
+
+Name
+
+Matric Number
+
+Responsibility
+
+
+
+[Member 2]
+
+Name
+
+Matric Number
+
+Responsibility
+
+
+
+[Member 3]
+
+Name
+
+Matric Number
+
+Responsibility
+
+
+
+[Member 4]
+
+Name
+
+Matric Number
+
+Responsibility
+
+
+# Technologies and Tools
+
+The proposed technologies and tools include:
+
+Frontend: 
+
+Backend: 
+
+Database: 
+
+UI Design: 
+
+Project Collaboration: GitHub
+
+# Project Documentation
+
+The project documentation includes:
+
+-Project Background
+
+-System Requirements
+
+-Stakeholder Identification and Requirement Gathering
+
+-Functional and Non-Functional Requirements
+
+-Use Case Diagram
+
+-User Interface Design
+
+# Project Status
+
+Current Status: Proposal and Requirements Analysis
+
+This project is developed as part of the CSF3143 Basics of Software Engineering group project for Academic Session 2026/2027 (Semester I), Universiti Malaysia Terengganu.
+
