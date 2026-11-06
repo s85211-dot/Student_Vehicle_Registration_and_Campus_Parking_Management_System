@@ -136,7 +136,7 @@ IDE: NetBeans
 
 Database: MySQL
 
-UI Design: Figma / Draw.io
+UI Design: Figma / Draw.io / Canva
 
 Project Collaboration: GitHub
 
