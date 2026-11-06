@@ -1,37 +1,64 @@
-# Student-Food-Ordering-System
-A web based food ordering system designed for university students to browse food menus, place orders, and manage their purchases.
-## Project Overview
+# Student Vehicle Registration and Campus Parking Management System
+#Project Overview
 
-The Student Food Ordering System is a proposed web based application designed to make food ordering on campus more convenient for students and more organised for food vendors.
+The Student Vehicle Registration and Campus Parking Management System is a proposed web-based system designed to improve vehicle registration and parking management within Universiti Malaysia Terengganu (UMT).
 
-Students will be able to browse food menus, view prices, place orders online, and check their order status. Vendors will be able to manage menu items and incoming orders through the system.
-## Problem Statement
+The system aims to provide a more organised and convenient way for students to register their vehicles and access campus parking information. It also allows administrators to manage student vehicle records, review registration applications and monitor parking-related activities.
 
-Students may face long queues and limited time to buy food between classes. They may also have difficulty checking food availability and prices before reaching a food stall. Food vendors, meanwhile, may experience delays and order management errors during busy periods.
+#Problem Statement
 
-This project proposes an online ordering system to improve the food ordering process for both students and vendors.
-## Project Objectives
+Vehicle registration and parking management are important aspects of campus operations. However, difficulties in managing vehicle records, checking registration status and accessing parking information may affect both students and university administrators.
 
-- Allow students to browse food menus and place orders online.
-- Help food vendors manage menus and customer orders.
-- Allow students to check order statuses and collection readiness.
-- Test the system to ensure its main functions work correctly.
-## Main Features
+Therefore, this proposed system aims to provide a centralised platform to simplify vehicle registration and improve campus parking management.
 
-### Student
-- Register and log in.
-- Browse menus and view prices.
-- Add food items to a shopping cart.
-- Place orders and view order history.
-- Check order status.
+The actual problems will be further investigated through stakeholder interviews and questionnaires.
 
-### Food Vendor
-- Add, edit, and remove menu items.
-- Update food prices and availability.
-- View incoming orders.
-- Update order statuses.
+#Project Objectives
 
-### Administrator
-- Manage user accounts.
-- Monitor system operations.
+The objectives of this project are:
 
+To provide an online platform for students to register their vehicles.
+
+To simplify the management of student vehicle records.
+
+To provide accessible campus parking information.
+
+To help administrators manage vehicle registrations and parking-related activities.
+
+To improve the efficiency of campus vehicle and parking management.
+
+#Proposed System Features
+
+Student Module
+
+Student account registration and login.
+
+Manage student profile.
+
+Register vehicle details.
+
+Update vehicle information.
+
+View vehicle registration status.
+
+View campus parking information.
+
+Administrator Module
+
+Manage student records.
+
+View and manage vehicle registrations.
+
+Approve or reject vehicle registration applications.
+
+Manage campus parking information.
+
+Record and manage parking violations.
+
+#Target Users
+
+Students: Register their vehicles, manage vehicle details and access parking information.
+
+Administrators: Manage student vehicle registrations and campus parking information.
+
+Parking / Security Staff: Assist with monitoring registered vehicles and parking-related activities, subject to confirmed requirements.
